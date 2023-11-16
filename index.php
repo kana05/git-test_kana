@@ -14,6 +14,26 @@
         </div>
     </div>
 
+    <div class="kuwahara_prof">
+        <h1>桒原竜二</h1>
+    </div>
+
+    <main style="text-align: center;">
+        <h2 class="prof">
+            <div class="prof_img">
+                <img src="yamato.jpg" width="400" height="400">
+            </div>
+
+            <p class="text">
+                桒原竜二(くわはらりゅうじ)と申します。<br>
+                本当は桑原ではなく旧字体の桒原なんです！<br>
+                桒を今まで初見で読めた人はいませんｗ<br>
+                <br>
+                ワンピースが大好きでヤマト推しです！
+            </p>
+        </h2>
+    </main>
+
     <?php
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         try {
