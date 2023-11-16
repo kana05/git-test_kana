@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* フォントを適宜変更 */
+    background-color: #f4f4f4; /* 背景色を適宜変更 */
+    margin: 0;
+    padding: 0;
+}
+
+.profile-container {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff; /* 背景色を適宜変更 */
+}
+
+.profile-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border: 4px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.text-container {
+    border: 2px solid #ddd; /* 枠の幅と色を適宜変更 */
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
